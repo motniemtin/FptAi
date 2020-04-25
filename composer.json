@@ -1,0 +1,17 @@
+{
+    "name": "motniemtin/fptai",
+    "description": "Thư viện truy cập FPT AI bằng php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lam Nguyen",
+            "email": "motniemtin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Motniemtin\\FptAi\\": "src/"
+        }
+    }
+}
